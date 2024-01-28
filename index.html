@@ -1,53 +1,39 @@
 <!DOCTYPE html>
 <html>
   <style>
-  .Btn {
-  border: none;
-  border-radius: 50%;
-  width: 45px;
-  height: 45px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition-duration: .4s;
+  .btn {
+  display: grid;
+  place-items: center;
+  background: #e3edf7;
+  padding: 1.4em;
+  border-radius: 10px;
+  box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15),
+	      -6px -6px 10px -1px rgba(255,255,255,0.7);
+  border: 1px solid rgba(0,0,0,0);
   cursor: pointer;
-  position: relative;
-  background-color: rgb(31, 31, 31);
-  overflow: hidden;
+  transition: transform 0.5s;
 }
 
-.svgIcon {
-  transition-duration: .3s;
+.btn:hover {
+  box-shadow: inset 4px 4px 6px -1px rgba(0,0,0,0.2),
+	      inset -4px -4px 6px -1px rgba(255,255,255,0.7),
+	      -0.5px -0.5px 0px rgba(255,255,255,1),
+	      0.5px 0.5px 0px rgba(0,0,0,0.15),
+	      0px 12px 10px -10px rgba(0,0,0,0.05);
+  border: 1px solid rgba(0,0,0,0.1);
+  transform: translateY(0.5em);
 }
 
-.svgIcon path {
-  fill: white;
+.btn svg {
+  transition: transform 0.5s;
 }
 
-.text {
-  position: absolute;
-  color: rgb(255, 255, 255);
-  width: 120px;
-  font-weight: 600;
-  opacity: 0;
-  transition-duration: .4s;
+.btn:hover svg {
+  transform: scale(0.9) rotate(360deg);
+  fill: #333333;
 }
 
-.Btn:hover {
-  width: 110px;
-  transition-duration: .4s;
-  border-radius: 30px;
-}
 
-.Btn:hover .text {
-  opacity: 1;
-  transition-duration: .4s;
-}
-
-.Btn:hover .svgIcon {
-  opacity: 0;
-  transition-duration: .3s;
-}
   * {
     background-color: #2d2d2d;
     scroll-behavior: smooth;
