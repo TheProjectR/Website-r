@@ -1,17 +1,8 @@
-YOU YES YOU BUY OUR SHIT JUST EMAIL US "x" AND CASH APP US THE MONEY!!!!!
+# R Website(wow you are soo fucking funny you sayed R and not Are cuz ur Project R)
+This is the website we have
+We got a 
+Main Page
+Other Page
+and soon a blog
 
-(payment info and details for cloakers/interstellar proxy links will be sent in the email we send back bitch)
-
-Tip: Any Amount of Money
-
-Standard-Cloaker: 3$
-
-Premium-Cloaker: 5$
-
-Premium-Deluxe-Cloaker: 7$
-
-Custom-Link: 3$
-
-WHAT THE FUCK ARE YOU WAITING FOR?????
-
-BUY YOUR FUCKING FREEDOM NOW YOU LIBTARD BITCH!1!!!1!!!11!!!
+and its made by someone who swears they are straight tho they do some kinda gay things and have watched gay porn they are stll straight and cool and their friends also say their gay but I swear man I like girls and not guys bro I promise im not a homosexual im a hetrosexual man im a hetro not homo I just say and do some unstraight things but im still straight please believe me
