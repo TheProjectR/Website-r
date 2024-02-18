@@ -1,4 +1,4 @@
-# R Website(wow you are soo fucking funny you sayed R and not Are cuz ur Project R)
+# R Website(wow you are soo fucking funny you said R and not Are cuz ur Project R)
 This is the website we have
 
 We got a 
