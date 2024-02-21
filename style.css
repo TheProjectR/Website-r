@@ -1,0 +1,11 @@
+* {
+    scroll-behavior: smooth;
+    font-family: "JetBrains Mono";
+    font-weight: bold;
+  }
+  body {
+    text-align: center;
+    color: #eaeaea;
+    background: #171717;
+    text-shadow: 4px 4px 5px black;
+  }
